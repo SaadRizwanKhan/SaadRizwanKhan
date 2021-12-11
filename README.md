@@ -1,4 +1,4 @@
-<p align="center"><a href="https://saadrizwankhan.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://saadrizwankhan.github.io">Saad</a></p>
 
 <br />
 
@@ -11,3 +11,6 @@ I'm a self-taught passionate Fullstack Web Developer from Karachi Pakistan 🇵�
 - ❤️ I love writing Javascript, and always use monsterrat font.
 
 - 💬 Ask me about anything [here](https://saadrizwankhan.github.io/contact)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadrizwankhan)](https://github.com/anuraghazra/github-readme-stats)
