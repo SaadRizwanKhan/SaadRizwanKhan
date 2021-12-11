@@ -1,18 +1,13 @@
-### Hi there 👋
+<p align="center"><a href="https://saadrizwankhan.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
-<!--
-**SaadRizwanKhan/SaadRizwanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a self-taught passionate Fullstack Web Developer from Karachi Pakistan 🇵🇰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadRizwanKhan&show_icons=true&theme=radical)](https://github.com//anuraghazra/github-readme-stats)
+**About me**
 
+- 💼 Fullstack Web Developer at [Avakentechnologies](https://avakentechnologies.com/)
+
+- ❤️ I love writing Javascript, and always use monsterrat font.
+
+- 💬 Ask me about anything [here](https://saadrizwankhan.github.io/contact)
