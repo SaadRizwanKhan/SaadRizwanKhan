@@ -8,7 +8,7 @@ I'm a self-taught passionate Fullstack Web Developer from Karachi Pakistan 🇵�
 
 💼 Fullstack Web Developer at [Avakentechnologies](https://avakentechnologies.com/)
 
-https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 💬 Ask me about anything [here](https://saadrizwankhan.github.io/contact)
 
