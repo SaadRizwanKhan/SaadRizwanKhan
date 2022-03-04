@@ -4,7 +4,7 @@
 
 <br />
 
-I'm a self-taught passionate Fullstack Web Developer living in Ajman UAE 🇦🇪
+I'm a self-taught passionate Fullstack Web Developer living in Dubai UAE 🇦🇪
 
 **About me**
 
