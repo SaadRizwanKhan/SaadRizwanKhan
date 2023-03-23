@@ -8,7 +8,7 @@ I'm a self-taught passionate Fullstack Web Developer living in Dubai UAE 🇦�
 
 **About me**
 
-💼 Fullstack Web Developer at [Avakentechnologies](https://avakentechnologies.com/)
+💼 Fullstack Web Developer. [Saadrizwan.com](https://saadrizwankhan.github.io/)
 
 <div style="display:grid;grid-auto-flow:column;margin-bottom:20px">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
