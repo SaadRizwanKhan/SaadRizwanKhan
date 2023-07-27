@@ -1,4 +1,4 @@
-<p align="center"><a href="https://saadrizwankhan.github.io">
+<p align="center"><a href="https://saadrizwan.com/">
  <img src="./SaadRizwan-Laravel-Developer.png"/>
   </a></p>
 
