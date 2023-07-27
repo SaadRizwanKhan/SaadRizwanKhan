@@ -36,7 +36,3 @@ Enter the MatriX! : [saadrizwan.com](https://saadrizwan.com/)
 </div>
 
 <br><br><br>
-
-💬 Ask me about anything [here](https://saadrizwankhan.github.io/contact)
-
-
